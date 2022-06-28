@@ -9,6 +9,7 @@
 
     <quickStartSecurity userName="duke" userPassword="dukeduke"/>
 
+    <!--   Database settings   -->
 
     <library id="PostgresLib">
         <file name="C:/postgresql-jdbc/postgresql-42.4.0.jar"/>

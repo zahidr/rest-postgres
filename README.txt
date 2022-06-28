@@ -1,6 +1,7 @@
 To run application:
 
 setup Postgres database as per server.xml
+and create_table.sql , populate_book.sql
 
 mvn clean package
 mvn liberty:dev
